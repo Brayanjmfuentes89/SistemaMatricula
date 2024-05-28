@@ -1,0 +1,71 @@
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+D:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+F:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.frmBuscar.resources
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
+E:\Programacion\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.frmGrafica.resources
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.frmBuscar.resources
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.frmGrafica.resources
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+D:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.frmBuscar.resources
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.frmGrafica.resources
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+F:\programacion 2parcial\Sistema Matricula 2024\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
